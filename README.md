@@ -1,13 +1,12 @@
 ### Silas Dantas 👋
 
-<!--
-**silaasdantas/silaasdantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-I'm software developer with more than 6 years of experience. 
-
-- 🌱 I’m currently learning Python, AWS, AZURE and Kubernetes
+- 🌱 I’m currently learning Python and DevOps
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/silaasdantas/) 
+  
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silaasdantas&layout=compact&hide=html&theme=dark" alt="silaasdantas" />
+<div/>
+<br />
+
 
 
