@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 I'm software developer with more than 6 years of experience. 
 
-- 🌱 I’m currently learning Python, AWS, AZURE e Kubernetes
+- 🌱 I’m currently learning Python, AWS, AZURE and Kubernetes
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/silaasdantas/) 
 
 
