@@ -1,6 +1,6 @@
 ### Silas Dantas 👋
 
-- 🌱 I’m currently learning Python and DevOps practices
+- 🌱 I’m currently learning Next.js and DevOps practices
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/silaasdantas/) 
   
 <div>
